@@ -11,7 +11,7 @@ import java.security.SecureRandom;
  * Description:
  * All Rights Reserved
  *
- * @Author 马春雨(cy.ma@zuche.com)
+ * @Author Elyzia
  * Date:2017/06/26
  * @Version 1.0
  */
