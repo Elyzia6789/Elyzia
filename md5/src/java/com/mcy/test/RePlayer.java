@@ -14,7 +14,7 @@ import java.net.URL;
  * Description: 使用jmf编写一个媒体播发器
  * All Rights Reserved
  *
- * @Author 马春雨(cy.ma@zuche.com)
+ * @Author Elyzia
  * Date:2018/04/02
  * @Version 1.0
  */
