@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="md5:war exploded">
+    <output-path>$PROJECT_DIR$/target/md5</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="md5" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.github.sarxos:webcam-capture:0.3.12" />
+          <element id="library" level="project" name="Maven: com.nativelibs4java:bridj:0.7.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.2" />
+          <element id="library" level="project" name="Maven: javax.media:jmf:2.1.1e" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="md5/web/Web" />
+    </root>
+  </artifact>
+</component>

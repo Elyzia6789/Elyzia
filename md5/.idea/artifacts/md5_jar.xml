@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="md5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/md5_jar</output-path>
+    <root id="archive" name="md5.jar">
+      <element id="module-output" name="md5" />
+    </root>
+  </artifact>
+</component>
